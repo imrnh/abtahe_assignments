@@ -1,0 +1,47 @@
+<your student number here>, <your studentg name here>
+Do not change the stucture of this file. Paste / type your answers in the sections indicated.
+=============================
+=============================
+Task 0:
+a) 
+
+    average number of attempts to find a collision over the  1000  runs is  24.207
+
+
+b)
+-- modify the bithday_atack_statistics code to increase the search space from your birthday up to 24 September 2023
+-- run the code and report what the change was in the statistics by copying the last line of the console output below.
+
+    average number of attempts to find a collision over the  1000  runs is  130.328
+
+
+=============================
+=============================
+Task 1:
+
+    Creative Commons Corporation ("Creative Commons") is not a law firm and
+
+=============================
+=============================
+Task 2:
+
+    Counter Mode (CTR)
+
+=============================
+=============================
+Task 3:
+
+    gAAAAABlCrqyZ_3kAm3w
+
+=============================
+=============================
+Task 4:
+
+    9ba9550ad48438d0836ddab3da480b3b69ffa0aac7b7878b5a0039e7ab429411
+
+
+=============================
+=============================
+Task 5:
+
+    a7a81cf46c7354b556cc6cae4e8718a286d5fc71231ca4b17aae07817610d5ec
