@@ -1,0 +1,22 @@
+Data Extraction:
+
+1. Connect to database for `movies` collection.
+2. Fetch date, publisher for every movie from database
+3. year <- last 4 character of date.
+4. publishers <- top 3 publisher.
+5. for publisher in publishers do 
+    yc_pair <- (year, publisher)
+6. Write the pair to file.
+7. Repeat step 2-6 till the end of query items.
+
+
+Data Count:
+
+1. Read a single line from the file.
+2. Convert into tokens.
+3. Yield all tokens at once and set the count to 1.
+4. Join all the tokens to convert into a single string.
+5. Add the count to the string.
+6. Reducer counts the number of occurrence. 
+7. Write every count to the file.
+8. Repeat step 1-7 till EOF.

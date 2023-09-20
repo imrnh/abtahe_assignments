@@ -1,0 +1,32 @@
+MergeSort:
+
+Step 1: Read all the data from files.
+Step 2: Make a list of data.
+Step 3: Declare two variable with 0, 0 as the count of sorted array.
+Step 4: Calculate mid using (left + right / 2)
+Step 5: Make a left and a right array.
+Step 6: Call the mergeSort function on the part (left, mid) and (mid+1, right).
+Step 7: while left<right do step 4-6
+Step 8: Call merge on resulting array.
+Step 9: Check left < right 
+    Step 9.1: If true, then append the left array's item.
+    Step 9.2: If false, then append the right array's item.
+Step 10: Step 9 contiues till one or both the array is empty.
+Step 11: If any one array is not empty yet, append all the item of the array to the output.
+Step 12: Return sorted array.
+
+
+
+BucketSort:
+
+Step 1: Read all the data from files.
+Step 2: Make a list of data.
+Step 3: Define an empty middle-man list named as mid_lst
+Step 4: n <- total iterations required.
+Step 5: Add n number of empty array to the array.
+Step 6: Iterate over the data.
+    Step 6.1: Calculate val using (n * (yp_occur_count/100))
+    Step 6.2: Append this value to mid_lst's val index.
+Step 7: Continue step-6 n times.
+Step 8: for i = 1 to n do
+            sort(buckets[i])
