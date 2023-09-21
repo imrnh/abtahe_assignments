@@ -13,6 +13,7 @@ b)
 -- run the code and report what the change was in the statistics by copying the last line of the console output below.
 
     average number of attempts to find a collision over the  1000  runs is  130.328
+    close
 
 
 =============================
@@ -31,7 +32,7 @@ Task 2:
 =============================
 Task 3:
 
-    gAAAAABlCrqyZ_3kAm3w
+    gAAAAABlDBCpdZjVsGus
 
 =============================
 =============================
@@ -44,4 +45,4 @@ Task 4:
 =============================
 Task 5:
 
-    a7a81cf46c7354b556cc6cae4e8718a286d5fc71231ca4b17aae07817610d5ec
+    5cc9b04ae1a17643d34b0338b8db60ec74d82c0fb8ed878429332152475cca47
